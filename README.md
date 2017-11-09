@@ -1,7 +1,7 @@
 # ChessAIM 
 Programming Project - Semester 1 - 2017
 
-## 
+## Description
 Our purpose is creating a multipage website of a chess game.
 
 Languages :
